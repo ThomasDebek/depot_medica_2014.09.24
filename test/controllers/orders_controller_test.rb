@@ -5,7 +5,11 @@ class OrdersControllerTest < ActionController::TestCase
     @order = orders(:one)
   end
 
-
+  test "should get index" do
+    get :index
+    assert_response :success
+    assert_not_nil assigns(:orders)
+  end
 
   test "requires item in cart" do
     get :new
@@ -24,23 +28,10 @@ class OrdersControllerTest < ActionController::TestCase
     assert_response :success
   end
 
-  test
-
-
-  test "should get index" do
-    get :index
-    assert_response :success
-    assert_not_nil assigns(:orders)
-  end
-
-  test "should get new" do
-    get :new
-    assert_response :success
-  end
-
   test "should create order" do
     assert_difference('Order.count') do
-      post :create, order: { address: @order.address, email: @order.email, name: @order.name, pay_type: @order.pay_type }
+      post :create, order: { address: @order.address, email: @order.email,
+          name: @order.name, pay_type: @order.pay_type }
     end
 
     assert_redirected_to store_path
@@ -69,3 +60,4 @@ class OrdersControllerTest < ActionController::TestCase
     assert_redirected_to orders_path
   end
 end
+
