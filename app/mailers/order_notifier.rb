@@ -20,6 +20,6 @@ class OrderNotifier < ActionMailer::Base
   def shipped
     @greeting = "Hi"
 
-    mail to: "to@example.org"
+    mail to: order.email, subject: 'Pragmatic Store Order Shipped'
   end
 end
