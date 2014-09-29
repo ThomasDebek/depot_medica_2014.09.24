@@ -1,5 +1,11 @@
 Rails.application.routes.draw do
 
+  namespace :api, defaults: {format: 'json'} do
+    namespace :v1 do
+      resources :products
+    end
+  end
+
   get 'admin' => 'admin#index'
   controller :sessions do
     get  'login' => :new
