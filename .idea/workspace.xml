@@ -12,7 +12,7 @@
     <file path="/index.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411722496846" ignored="false" />
     <file path="/products_controller_test.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409564663762" ignored="false" />
     <file path="/product_test.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409567009148" ignored="false" />
-    <file path="/routes.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410361244965" ignored="false" />
+    <file path="/routes.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411823076597" ignored="false" />
     <file path="/store_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409568539828" ignored="false" />
     <file path="/store_controller_test.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409573671222" ignored="false" />
     <file path="/development.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411638140866" ignored="false" />
@@ -28,11 +28,11 @@
     <file path="/20140902083638_combine_items_in_cart.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409648536951" ignored="false" />
     <file path="/carts_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409653181987" ignored="false" />
     <file path="/carts_controller_test.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409653638774" ignored="false" />
-    <file path="/_line_item.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409663322914" ignored="false" />
+    <file path="/_line_item.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411814058793" ignored="false" />
     <file path="/Gemfile" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411722034647" ignored="false" />
     <file path="/application_helper.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409666291105" ignored="false" />
     <file path="$PROJECT_DIR$/../Good_logowanie_facebook-powiekszenie/app/controllers/sessions_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409729027049" ignored="false" />
-    <file path="/sessions_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411655720959" ignored="false" />
+    <file path="/sessions_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411758588267" ignored="false" />
     <file path="/_cart.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409910755708" ignored="false" />
     <file path="/orders_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409926492716" ignored="false" />
     <file path="/orders_controller_test.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411639606601" ignored="false" />
@@ -41,26 +41,26 @@
     <file path="/orders.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409924113990" ignored="false" />
     <file path="/line_items.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409924739219" ignored="false" />
     <file path="/line_item.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409924809040" ignored="false" />
-    <file path="/order.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1409925930422" ignored="false" />
+    <file path="/order.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411816174464" ignored="false" />
     <file path="/Projects/tdl/config/locales/devise.pl.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410513670419" ignored="false" />
     <file path="/devise.pl.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410513648555" ignored="false" />
     <file path="/Projects/tdl/app/controllers/users/passwords_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410513498916" ignored="false" />
     <file path="/passwords_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410508447805" ignored="false" />
     <file path="/Projects/tdl/app/views/devise/sessions/new.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410171237423" ignored="false" />
     <file path="/new_send.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410512867085" ignored="false" />
-    <file path="$USER_HOME$/Desktop/devise_github/devise/app/controllers/devise_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410257455835" ignored="false" />
-    <file path="$USER_HOME$/Desktop/devise_github/devise/app/controllers/devise/sessions_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410173797475" ignored="false" />
+    <file path="$PROJECT_DIR$/../devise_github/devise/app/controllers/devise_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410257455835" ignored="false" />
+    <file path="$PROJECT_DIR$/../devise_github/devise/app/controllers/devise/sessions_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410173797475" ignored="false" />
     <file path="/Projects/tdl/config/locales/devise.en.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410513735903" ignored="false" />
     <file path="/a.rxml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410258213471" ignored="false" />
     <file path="/a.feature" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410258217630" ignored="false" />
     <file path="/a.html" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410258223034" ignored="false" />
     <file path="/a.js" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410258224216" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-2.1.2/gems/devise-3.2.3/app/controllers/devise_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410259022918" ignored="false" />
-    <file path="$USER_HOME$/Desktop/do_kosza/app_probka_devise/Gemfile" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266610278" ignored="false" />
-    <file path="$USER_HOME$/Desktop/do_kosza/app_probka_devise/config/environments/development.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266848634" ignored="false" />
-    <file path="$USER_HOME$/Desktop/do_kosza/app_probka_devise/config/routes.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410267210164" ignored="false" />
-    <file path="$USER_HOME$/Desktop/do_kosza/app_probka_devise/app/views/layouts/application.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266725380" ignored="false" />
-    <file path="$USER_HOME$/Desktop/do_kosza/app_probka_devise/config/environments/production.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266850082" ignored="false" />
+    <file path="$PROJECT_DIR$/../do_kosza/app_probka_devise/Gemfile" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266610278" ignored="false" />
+    <file path="$PROJECT_DIR$/../do_kosza/app_probka_devise/config/environments/development.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266848634" ignored="false" />
+    <file path="$PROJECT_DIR$/../do_kosza/app_probka_devise/config/routes.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410267210164" ignored="false" />
+    <file path="$PROJECT_DIR$/../do_kosza/app_probka_devise/app/views/layouts/application.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266725380" ignored="false" />
+    <file path="$PROJECT_DIR$/../do_kosza/app_probka_devise/config/environments/production.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410266850082" ignored="false" />
     <file path="/Projects/tdl/config/routes.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410441402255" ignored="false" />
     <file path="/Projects/tdl/app/controllers/users/passwords2_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410269218194" ignored="false" />
     <file path="/passwords2_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1410271238658" ignored="false" />
@@ -118,7 +118,7 @@
     <file path="$PROJECT_DIR$/../depot_medica_24.07/app/views/line_items/create.js.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411568963959" ignored="false" />
     <file path="$PROJECT_DIR$/../depot_medica_24.07/config/locales/en.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411569040341" ignored="false" />
     <file path="/received.text.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411635535276" ignored="false" />
-    <file path="/received.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411637024476" ignored="false" />
+    <file path="/received.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411816262770" ignored="false" />
     <file path="/order_notifier_test.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411642194864" ignored="false" />
     <file path="/shipped.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411639212327" ignored="false" />
     <file path="/user_stories_test.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411642819425" ignored="false" />
@@ -130,6 +130,21 @@
     <file path="/products_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411722388332" ignored="false" />
     <file path="/en.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411735457170" ignored="false" />
     <file path="/es.yml" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411735481047" ignored="false" />
+    <file path="/Dummy.txt" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411810785975" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app/config/environments/development.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411822818523" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app/app/models/order.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411759957786" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app/app/controllers/orders_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411759985567" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/config/environments/development.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411811492769" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/mailers/order_notifier.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411811688612" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/views/order_notifier/received.text.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411814395401" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/controllers/orders_controller.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411811822802" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/views/order_notifier/shipped.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411811873324" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/views/line_items/_line_item.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411814058793" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/models/order.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411816174464" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/views/order_notifier/received.html.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411816263813" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app-wysylanie_mailera/app/views/line_items/_line_item.text.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411815374347" ignored="false" />
+    <file path="/_line_item.text.erb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411815374347" ignored="false" />
+    <file path="$PROJECT_DIR$/../App_Thomas/Rails_app/config/routes.rb" changelist="858f3b39-7b42-489a-a8e8-00c18510e1d5" time="1411823181543" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,10 +161,73 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create.js.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/line_items/create.js.erb">
+      <file leaf-file-name="order_notifier.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/mailers/order_notifier.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="214" selection-start="255" selection-end="255" vertical-scroll-proportion="-5.318182">
+            <state line="18" column="41" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="received.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/order_notifier/received.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="14" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_line_item.text.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/line_items/_line_item.text.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="19" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orders_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/orders_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="73" selection-start="964" selection-end="964" vertical-scroll-proportion="0.19933555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="received.text.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/order_notifier/received.text.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shipped.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/order_notifier/shipped.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shipped.text.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/order_notifier/shipped.text.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="28" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="36" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -158,34 +236,16 @@
       <file leaf-file-name="_line_item.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/line_items/_line_item.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="58" selection-start="258" selection-end="258" vertical-scroll-proportion="-5.318182">
+            <state line="6" column="22" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pl.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/locales/pl.yml">
+      <file leaf-file-name="products_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="53" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.65982723">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="es.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/locales/es.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="30" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="en.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="24" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+            <state line="43" column="21" selection-start="972" selection-end="972" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -201,8 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/orders/_form.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/orders_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/store_controller.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
@@ -217,14 +275,16 @@
         <option value="$PROJECT_DIR$/config/locales/en.yml" />
         <option value="$PROJECT_DIR$/config/locales/es.yml" />
         <option value="$PROJECT_DIR$/config/locales/pl.yml" />
+        <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/orders_controller.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1903" />
-    <option name="y" value="25" />
-    <option name="width" value="1901" />
-    <option name="height" value="1051" />
+    <option name="x" value="623" />
+    <option name="y" value="138" />
+    <option name="width" value="779" />
+    <option name="height" value="488" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -252,8 +312,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -282,25 +340,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app_depot_repeat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depot_medica_2014.09.24" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locales" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -317,15 +357,21 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../code/rails40" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -625,19 +671,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1903" y="25" width="1901" height="1051" extended-state="0" />
+    <frame x="623" y="138" width="779" height="488" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1638814" sideWeight="0.99895614" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29331514" sideWeight="0.9941176" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -703,117 +749,104 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/orders/_form.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="364" selection-end="364" vertical-scroll-proportion="0.100663714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="15" selection-start="59" selection-end="59" vertical-scroll-proportion="0.04211663">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="77" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20140926090343_add_avatar_columns_to_products.rb">
+    <entry file="file://$PROJECT_DIR$/config/initializers/inflections.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="122" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/products/edit.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/models/order.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="94" selection-start="648" selection-end="648" vertical-scroll-proportion="-9.454545">
+        <state line="18" column="2" selection-start="696" selection-end="988" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/mailers/order_notifier.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="41" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="87" selection-start="2146" selection-end="2146" vertical-scroll-proportion="0.0">
+        <state line="5" column="36" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/order_notifier/shipped.text.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="14" selection-start="631" selection-end="631" vertical-scroll-proportion="-13.590909">
+        <state line="3" column="28" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/store/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/order_notifier/shipped.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="739" selection-end="739" vertical-scroll-proportion="-13.0">
-          <folding>
-            <marker date="1411722498000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1411722498000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/products/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="48" selection-start="404" selection-end="404" vertical-scroll-proportion="0.34513274">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/line_items/create.js.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/order_notifier/received.text.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="214" selection-start="255" selection-end="255" vertical-scroll-proportion="-5.318182">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/order_notifier/received.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/line_items/_line_item.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="58" selection-start="258" selection-end="258" vertical-scroll-proportion="-5.318182">
+        <state line="6" column="22" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
+    <entry file="file://$PROJECT_DIR$/app/views/line_items/_line_item.text.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="24" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+        <state line="3" column="19" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/locales/es.yml">
+    <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="30" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+        <state line="43" column="21" selection-start="972" selection-end="972" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/locales/pl.yml">
+    <entry file="file://$PROJECT_DIR$/app/controllers/orders_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="53" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.65982723">
+        <state line="41" column="73" selection-start="964" selection-end="964" vertical-scroll-proportion="0.19933555">
           <folding />
         </state>
       </provider>
